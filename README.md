@@ -7,8 +7,8 @@
 Building intelligent software at the intersection of **Artificial Intelligence, Cybersecurity, Network Automation, and Cloud Technologies**.
 
 [![Website](https://img.shields.io/badge/Website-sarafonline.in-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sarafonline.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<!---[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)--->
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-atharvasaraf2004@gmail.com)
 
 </div>
 
